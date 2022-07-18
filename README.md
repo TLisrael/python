@@ -8,4 +8,3 @@
 
 ##### Curso: Sistemas de Informação/Estácio de Sá-RJ
 
-# Python
